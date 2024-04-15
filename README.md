@@ -8,7 +8,7 @@ The overall goal is to use Generative AI to create extensions for Saleae Logic2.
 
 ---
 
-## Project 0: Can Generative AI decode a datahsheet?
+## Experiment 0: Can Generative AI decode a datahsheet?
 ### Objective
  Providing the datasheet as context, can the generative AI interpret instructions
 ### Steps
@@ -23,7 +23,7 @@ The overall goal is to use Generative AI to create extensions for Saleae Logic2.
 
 ---
 
-## Project 1: Create a device specific HLA that can Decode I2C frames
+## Experiment 1: Create a device specific HLA that can Decode I2C frames
 ### Objective
   Can generative AI be used to generate a HLA that recognizes and decodes I2C frames, placing human readable annotations above each received frame.
 ### Steps
