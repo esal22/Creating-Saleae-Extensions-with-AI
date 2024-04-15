@@ -4,16 +4,13 @@ This is an experimental project using Anthropic's claude.ai engine (Claude 3 Opu
 
 
 The following items are included in the repository:
-- Source HLA (Before Code Generation)
-- Final HLA (Expected Result After Code Generation)
-- Logic2 Data Capture
+- Source HLA (Before Code Generation)  <-- The Reference Design
+- Final HLA (Expected Result After Code Generation)  <-- An example of 'success'
+- Logic2 Data Capture << Source Data File (.sal)
 
 Items to be downloaded:
 - [SH1107 Datasheet](https://www.displayfuture.com/Display/datasheet/controller/SH1107.pdf)
 - [Saleae High Level Analyzer (HLA) Documentation](https://support.saleae.com/extensions/high-level-analyzer-extensions)
-    - PDF Link for GitBook Document: https://support.saleae.com/~gitbook/pdf?page=-M9_G67PMwwENteC29h3&only=yes
-    - Note: Not sure, but there is a chance this link could expire.
+- [Saleae High Level Analyzer Frame Types Documenation](https://support.saleae.com/extensions/analyzer-frame-types)
 
 
-YouTube Video Showing the Process for Using
-- Link Coming Soon 
