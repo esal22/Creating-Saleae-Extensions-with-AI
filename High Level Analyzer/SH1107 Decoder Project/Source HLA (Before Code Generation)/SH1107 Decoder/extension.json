@@ -1,0 +1,13 @@
+{
+  "name": "SH1107 Decoder",
+  "apiVersion": "1.0.0",
+  "author": "AI Generated",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "SH1107 Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
