@@ -6,6 +6,9 @@ The overall goal is to use Generative AI to create extensions for Saleae Logic2.
 
 ![HLA Diagram](https://github.com/esal22/Creating-Saleae-Extensions-with-AI/blob/491fd252b1eb2f2549f8b062f2ac50e7064cc370/High%20Level%20Analyzer/SH1107%20Decoder%20Project/Claude%20for%20Generating%20HLA.png)
 
+## Software Needed to Get Started?
+- [Download Logic2](https://www.saleae.com/pages/downloads)
+
 ---
 
 ## Experiment 0: Can Generative AI decode a datahsheet?
