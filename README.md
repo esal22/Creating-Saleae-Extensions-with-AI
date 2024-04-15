@@ -2,6 +2,12 @@
 
 The overall goal is to use Generative AI to create extensions for Saleae Logic2.  I'm starting with a Python based HLA (High Level Analyzer) and will expand from there.
 
+## Diagram of the Current Objective
+
+![HLA Diagram](https://github.com/esal22/Creating-Saleae-Extensions-with-AI/blob/491fd252b1eb2f2549f8b062f2ac50e7064cc370/High%20Level%20Analyzer/SH1107%20Decoder%20Project/Claude%20for%20Generating%20HLA.png)
+
+---
+
 ## Project 0: Can Generative AI decode a datahsheet?
 ### Objective
  Providing the datasheet as context, can the generative AI interpret instructions
@@ -15,7 +21,7 @@ The overall goal is to use Generative AI to create extensions for Saleae Logic2.
 ### Status
 - Status:  *Success*
 
-
+---
 
 ## Project 1: Create a device specific HLA that can Decode I2C frames
 ### Objective
