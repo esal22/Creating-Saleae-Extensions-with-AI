@@ -1,0 +1,13 @@
+{
+  "name": "Decode SH1107 I2C Commands and Data",
+  "apiVersion": "1.0.0",
+  "author": "Generative AI",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "Decode SH1107 I2C Commands and Data": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
