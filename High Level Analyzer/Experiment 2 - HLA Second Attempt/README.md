@@ -9,26 +9,7 @@ The overall goal is to use Generative AI to create extensions for Saleae Logic2.
 ## Software Needed to Get Started?
 - [Download Logic2](https://www.saleae.com/pages/downloads)
 
----
-
-## Experiment 0: Can Generative AI decode a datahsheet?
-### Objective
- Providing the datasheet as context, can the generative AI interpret instructions
-### Steps
-- Upload datasheet for the SH1107
-- Copy/Paste I2C Received Frames from the Logic2 Terminal
-- Can Claude understand the instructions?
-### Resources
-- Required Software: [Download Logic2](https://www.saleae.com/pages/downloads)
-- Source Data File: [SH1107-data-file.sal](/High%20Level%20Analyzer/SH1107%20Decoder%20Project/Logic2%20Data%20Capture)
-### Status
-- Status:  *Success*
-- Link: [YouTube Video](https://youtu.be/x-kMQCyVMyI?feature=shared)
-
-  
----
-
-## Experiment 1: Create a device specific HLA that can Decode I2C frames
+## Experiment 2: Create a device specific HLA that can Decode I2C frames
 ### Objective
   Can generative AI be used to generate a HLA that recognizes and decodes I2C frames, placing human readable annotations above each received frame. Note: The SH1107 OLED Driver part is chosen because I had it on hand, and it has an interesting state machine supporting both commands and data with multi-byte instructions.
 ### Steps
@@ -39,10 +20,10 @@ The overall goal is to use Generative AI to create extensions for Saleae Logic2.
 ### Resources
 - Required Software: [Download Logic2](https://www.saleae.com/pages/downloads)
 - Source Data File: [SH1107-data-file.sal]
-- [SH1107 Decoder HLA Source Files](/High%20Level%20Analyzer/SH1107%20Decoder%20Project)
+- SH1107 Decoder HLA Source Files: This Folder Structure
 ### Status
 - Status: *success*
 - Created a basic HLA Decoder from the SH1107 (Monochrome OLED Driver)
   - Note: The lookup table is incomplete and more commands need to be added, but it seems to work properly on first pass
-- Link: (coming soon)
+- YouTube Link: [Debug Protocols Faster with AI Generated Logic Analyzer Extensions](https://youtu.be/8clEDosunfI)
 
